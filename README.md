@@ -1,2 +1,2 @@
-# exerc-cios_EBAC
+# exercicios_EBAC
 Exercícios (curso QA)
