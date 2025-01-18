@@ -10,6 +10,8 @@
             Cenario: Processo de adição ao carrinho válido
             Quando o usuario escolher o <tamanho>, <cor>, <quantidade>
             Entao deve inserir ao carrinho
+
+            Cenario: Processo de voltar ao padrão
             Quando selecionado a opção limpar
             Entao deve limpar as opções selecionadas acima voltando para o original
 
